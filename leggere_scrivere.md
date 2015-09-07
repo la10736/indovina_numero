@@ -18,7 +18,7 @@ Dopo averlo provato sulla console Scriviamo nel programma e eseguiamolo:
     Process finished with exit code 0
 
 
-Ancora una cosattina. Nella console provate a scrivere
+Ancora una cosettina. Nella console provate a scrivere... cosa succede se dopo scrivete `frase` e premete a capo? 
 
 ```python
 frase="la mia prima stringa"
@@ -30,3 +30,24 @@ Ora modificate il programma per funzionare come prima ma usando la riga
 
 ## Chiedere qualcosa all'utente
 
+In *Python* esiste la funzione `input()` che vuol dire *`inseriment`*. Alla funzione `input` bisogna passare la stringa 
+il con mesaggio che si vuole madare prima all'utente prima che lui scrive e poi si aspetta che venga inserito qualcosa.
+
+Provate ora sulla console a usare il comando `input` per chiedere a chi deve scrivere `"come ti chiami?"`. Dopo cambiate
+il programma per chiede all'utente come si chiama e poi scrivere sullo scermo
+
+    Ciao <il nome scritto>, sto imparando a usare Python
+    
+**Un piccolo indizio**: provate sulla console a scrivere la riga e osserbvate cosa succede
+
+```python
+>>> print("Ciao " + "pippo")
+```
+
+## Dove siamo adesso
+
+Forse può sembrare che non abbiamo fatto un gran che, ma il nostro preogramma inizia a 
+[prendere forma](leggere_scrivere.py)
+
+Prossimo: [Confrontare e decidere](confrontare.md)
+Precedente: [Primi Passi](iniziamo.md) 
