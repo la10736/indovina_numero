@@ -36,11 +36,11 @@ Ora vogliamo che il programma si comporti così:
 
     #### INDOVINA IL NUMERO ####
     Inserisci un numero: 33
-    Peccato, non è il numero giusto: riprova.
+    Peccato non hai indovinato... prova ancora!
     
     #### INDOVINA IL NUMERO ####
     Inserisci un numero: 42
-    Bravo hai indovinato!
+    BRAVO!!!! Hai indovinato
 
 Quindi se il numero è uguale a quello definito scrive `Bravo hai indovinato`, altrimenti scrive `Peccato, non è il 
 numero giusto: riprova.` La costruzione per fare queste cose in *Python* è molto semplice:

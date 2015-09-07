@@ -2,7 +2,8 @@ numero_da_indovinare = 42
 print("#### INDOVINA IL NUMERO ####")
 
 tentativo = input("Inserisci un numero: ")
-if numero_da_indovinare == int(tentativo):
-    print("Bravo hai indovinato!")
+numero_provato = int(tentativo)
+if numero_da_indovinare == numero_provato:
+    print("BRAVO!!!! Hai indovinato")
 else:
-    print("Peccato riprova")
+    print("Peccato non hai indovinato... prova ancora!")

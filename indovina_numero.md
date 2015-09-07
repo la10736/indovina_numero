@@ -26,8 +26,8 @@ Questo è il percorso che faremo per arrivare al programma
 giocatore
 3. [Confrontare e decidere](confrontare.md): Fissiamo un numero e verifichiamo se il giocatore indovina
 4. [Provare e riprovare](ciclo.md): Facciamo continuare a provare il giocatore fino a che non indovina
-5. Contiamo i tentativi dicendo al giocatore quanti ne ha usati
-6. Il gioco è troppo difficile se non si conosce il numro: Diamo qualche indizio
+5. [Conteggi](conteggi.md): Contiamo i tentativi dicendo al giocatore quanti ne ha usati
+6. Il gioco è troppo difficile se non si conosce il numero: Diamo qualche indizio
 7. Ora il computer inventa il numero
 8. Se il giocatore non mette un numero il programma non funziona bene: BUG 
 9. Tutto funziona ma non è un po troppo difficile da capire? Possiamo scriverlo meglio?
