@@ -7,7 +7,7 @@ molto simile : `while True:`
 
 ## Per Sempre
 
-Il ciclo `while` (letteraemnete fintanto che) si scrive con la seguente sintassi
+Il ciclo `while` (letteraemnete fintanto che) si scrive così
 
 ```python
 while <condizione>:
@@ -15,7 +15,7 @@ while <condizione>:
     condizione è vera
 ```
 
-Quindi dato che `True` è sempre vero `while True` è proprio per sempre... o meno fino a che qualcuno non prova a 
+Quindi dato che `True` è sempre vero `while True` è proprio per sempre... almeno fino a che qualcuno non prova a 
 interrompere il programma.
 
 Provate quindi a sulla console a farvi stampare all'infinito una frase e poi trasformate il vostro programma in un 
