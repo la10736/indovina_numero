@@ -38,5 +38,5 @@ sys.exit()
 Ora assomiglia a un gioco! se indovini ti dice che hai indovinato e quando indovini il gioco finisce. Dovrebbe
 assomigliare a [questo](ciclo.py)
 
-Prossimo: [Conteggi](conteggi.md)
-Precedente: [Confrontare e decidere](confrontare.md)
+* Prossimo: [Conteggi](conteggi.md)
+* Precedente: [Confrontare e decidere](confrontare.md)

@@ -33,4 +33,4 @@ giocatore
 9. Tutto funziona ma non è un po troppo difficile da capire? Possiamo scriverlo meglio?
 
 
-Prossimo: [Primi Passi](iniziamo.md) 
+* Prossimo: [Primi Passi](iniziamo.md) 

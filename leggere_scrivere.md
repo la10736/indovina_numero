@@ -49,5 +49,5 @@ il programma per chiede all'utente come si chiama e poi scrivere sullo scermo
 Forse può sembrare che non abbiamo fatto un gran che, ma il nostro preogramma inizia a 
 [prendere forma](leggere_scrivere.py)
 
-Prossimo: [Confrontare e decidere](confrontare.md)
-Precedente: [Primi Passi](iniziamo.md) 
+* Prossimo: [Confrontare e decidere](confrontare.md)
+* Precedente: [Primi Passi](iniziamo.md) 

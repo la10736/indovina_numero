@@ -81,5 +81,5 @@ avete una finestrella per il vostro programma `indovina_numero` e una per la *Py
 
 ![Run](run.png)
 
-Prossimo: [Leggere e Scrivere](leggere_scrivere.md) 
-Precedente: [Indovina Numero](indovina_numero.md) 
+* Prossimo: [Leggere e Scrivere](leggere_scrivere.md) 
+* Precedente: [Indovina Numero](indovina_numero.md) 

@@ -12,7 +12,7 @@ Il risultato del vostro programma deve diventare circa
 ## Giochiamo con i confronti
 
 Ora interroghiamo la console per cercare di capire cosa è vero e cosa è falso. In *Python* si usa `==` per verificare
-se due cose sono uguali (**attenzione** uguali, non vuol dire necessariamente *la stessa cosa*). Fate pure qualche 
+se due cose sono uguali ( **attenzione** uguali, non vuol dire necessariamente *la stessa cosa*). Fate pure qualche 
 esperimento sapendo che `True` significa vero e `False` significa falso.
 
 
@@ -65,5 +65,5 @@ Bene ora inizia a somigliare a quello che dovrebbe venire, ricordatevi solo che 
 `numero_da_indovinare` basterebbe cambiare questa definizione per cambiare il numero. Le cose dovrebbero errere
 pressapoco [così](confrontare.py)
 
-Prossimo: [Provare e riprovare](ciclo.md)
-Precedente: [Leggere e Scrivere](leggere_scrivere.md)
+* Prossimo: [Provare e riprovare](ciclo.md)
+* Precedente: [Leggere e Scrivere](leggere_scrivere.md)
