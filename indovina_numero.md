@@ -1,25 +1,23 @@
 # Indovina il Numero
 
-## Introduzione
+## A chi è rivolto il tutorial?
 
-### A chi è rivolto il tutorial?
-
-Questo tutorial è rivolto a chi non ha mai scritto un programma in *Python* e non ha mai usato *PyCharm*. Imparemenro 
+Questo tutorial è rivolto a chi non ha mai scritto un programma in *Python* e non ha mai usato *PyCharm*. Imparememo 
 come scrivere un programma in *Python* usando un altro programma che ci aiuterà in questo lavoro *PyCharm*. Parleremo
 con *Python* per capire come interpreta quello che scriviamo e arriveremo a fare un primo gioco che non avrà effetti 
 grafici particolari, ma riusciremo a capire che *quello che sta facendo il computer lo fa solo perché voi gli state 
 dicendo come farlo!*
 
-### Lo scopo del Gioco
+## Lo scopo del Gioco
 
 **Il computer sceglie un numero a caso e il giocatore deve indovinarlo, magari con qualche indizio.**
 
 Semplice vero? Scrverlo in scratch sarebbe semplice e avrebbe anche un aspetto più bello, ma quello che ci interessa
 è fare la prima conoscenza con *Python* per poi fare cose *molto più divertenti*.
 
-### Il percorso
+## La Strada
 
-Questo è il percorso che faremo per arrivare al programma
+Questo è il percorso che faremo per arrivare al programma finale
 
 1. [Primi passi](iniziamo.md): le cose base prima di iniziare a scrivere
 2. [Leggere e Scrivere](leggere_scrivere.md): il programma chiede di scrivere qualcosa e ripete cosa ha scritto il 
