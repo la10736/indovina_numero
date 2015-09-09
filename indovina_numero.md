@@ -25,9 +25,10 @@ giocatore
 3. [Confrontare e decidere](confrontare.md): Fissiamo un numero e verifichiamo se il giocatore indovina
 4. [Provare e riprovare](ciclo.md): Facciamo continuare a provare il giocatore fino a che non indovina
 5. [Conteggi](conteggi.md): Contiamo i tentativi dicendo al giocatore quanti ne ha usati
-6. Il gioco è troppo difficile se non si conosce il numero: Diamo qualche indizio
-7. Ora il computer inventa il numero
-8. Se il giocatore non mette un numero il programma non funziona bene: BUG 
+6. [Indizi](indizi.md): Il gioco è troppo difficile se non si conosce il numero: aiutiamo il giocatore dando qualche 
+indizio
+7. [Numero a caso](casuale.md): Ora il computer deve inventare il numero da indovinare a ogni partita.
+8. [BUG](bug.md): Se il giocatore non mette un numero il programma non funziona bene
 9. Tutto funziona ma non è un po troppo difficile da capire? Possiamo scriverlo meglio?
 
 
