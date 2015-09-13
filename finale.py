@@ -8,7 +8,7 @@ tentativi = 0
 
 
 def messaggio_intro(numero_tentativo):
-    return "--- Tentativo numero " + str(tentativi) + "."
+    return "--- Tentativo numero " + str(numero_tentativo) + "."
 
 
 def stampa_intro(numero_tentativo):
@@ -41,10 +41,10 @@ def chiedi_numero(messaggio):
 
 
 def chiedi_numero_in_intervallo(min_val, max_val):
-    numero_provato = min_val - 1
-    while fuori_intervallo(numero_provato, min_val, max_val):
-        numero_provato = chiedi_numero(messaggio_inserisci_intervallo(min_val, max_val))
-    return numero_provato
+    numero = min_val - 1
+    while fuori_intervallo(numero, min_val, max_val):
+        numero = chiedi_numero(messaggio_inserisci_intervallo(min_val, max_val))
+    return numero
 
 
 def messaggio_indovinato(numero_prove):
