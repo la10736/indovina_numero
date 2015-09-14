@@ -30,8 +30,10 @@ Ora modificate il programma per funzionare come prima ma usando la riga
 
 ## Chiedere qualcosa all'utente
 
-In *Python* esiste la funzione `input()` che vuol dire *`inseriment`*. Alla funzione `input` bisogna passare la stringa 
-il con mesaggio che si vuole madare prima all'utente prima che lui scrive e poi si aspetta che venga inserito qualcosa.
+In *Python* esiste la funzione `input()` che vuol dire *`inserisci`*. in pratica usando input chiedi al giocatore di scrivere qualcosa. Puoi scegliere la frase che il giocatore vedrà sullo schermo prima di scrivere.
+Per esepmpio se scrivi `input("inserisci il numero")` il giocatore vedrà:
+
+    inserisci il numero
 
 Provate ora sulla console a usare il comando `input` per chiedere a chi deve scrivere `"come ti chiami?"`. Dopo cambiate
 il programma per chiede all'utente come si chiama e poi scrivere sullo scermo
