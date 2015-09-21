@@ -1,32 +1,34 @@
 # Confrontare e decidere
 
-Per prima cosa invece di chiedere il nome cambiamo il programma dove per prima cosa si presenta e poi chiede un numero
-e scrive indietro il numero che è stato scritto : *basta con i nomi*!
+*Basta con i nomi!* Per prima cosa cambiamo il programma in modo tale che esegua le seguenti azioni:
 
-Il risultato del vostro programma deve diventare circa
+1. si presenta brevemente;
+2. chiede all'utente di inserire un numero;
+3. visualizza un messaggio con il numero che è stato inserito.
+
+Il risultato del vostro programma dovrebbe assomigliare a questo:
 
     #### INDOVINA IL NUMERO ####
     Inserisci un numero: 42
-    Hai inserito il umero 42
+    Hai inserito il numero 42
 
 ## Giochiamo con i confronti
 
 Ora interroghiamo la console per cercare di capire cosa è vero e cosa è falso. In *Python* si usa `==` per verificare
-se due cose sono uguali ( **attenzione** uguali, non vuol dire necessariamente *la stessa cosa*). Fate pure qualche 
-esperimento sapendo che `True` significa vero e `False` significa falso.
-
+se due cose sono uguali ( **attenzione**: uguali non vuol dire necessariamente che siano *la stessa cosa*). Fate pure
+qualche esperimento sapendo che `True` significa vero e `False` significa falso.
 
 ... Vi siete convinti che funziona? `42 == 42` scrive `True`? `42 == 11` scrive `False`? Allora possiamo sperimentare 
- nel nostro programma se il giocatore inserisce il numero `42`: **provateci... se ci riuscite a fare questo**
+ nel nostro programma se il giocatore inserisce il numero `42`: **provate a vedere se riuscite a fare questo**
  
     #### INDOVINA IL NUMERO ####
     Inserisci un numero: 42
-    Hai inserito il umero 42
+    Hai inserito il numero 42
     True
 
 Due piccoli indizi:
 
-1. Potete fare `print(qualcosa vero o falseo)` per vedere `True` o `False`
+1. Potete usare l'istruzione `print(qualcosa vero o falso)` per far scrivere a *Python* `True` o `False`.
 2. Una stringa è sempre diversa da un numero: provate a usare `int(stringa)` e riuscirete a trasformare le stringhe in
 numeri
 
@@ -42,8 +44,8 @@ Ora vogliamo che il programma si comporti così:
     Inserisci un numero: 42
     BRAVO!!!! Hai indovinato
 
-Quindi se il numero è uguale a quello definito scrive `Bravo hai indovinato`, altrimenti scrive `Peccato, non è il 
-numero giusto: riprova.` La costruzione per fare queste cose in *Python* è molto semplice:
+Quindi se il numero è uguale a quello definito scrive `Bravo hai indovinato`, altrimenti scrive `Peccato non hai
+indovinato... prova ancora!` La costruzione per fare queste cose in *Python* è molto semplice:
 
 ```python
 if <condizione> :
@@ -55,14 +57,14 @@ else:
 ```
 
 Il blocco contenuto tra `if` e `else` deve essere **rientrato di 4 spazi** come quello dopo `else`. Quando si smette 
-di scrivere lasciando gli spazi finisce il blocco della condizione.
+di scrivere eliminando il rientro finisce il blocco della condizione.
 
-Bene ora provate pure a sperientare sulla console, ma poi cambiate il programma e fatelo funzionare come si deve.
+Bene, ora provate a sperimentare sulla console, ma poi cambiate il programma e fatelo funzionare come si deve.
 
 ## Dove siamo adesso
 
-Bene ora inizia a somigliare a quello che dovrebbe venire, ricordatevi solo che se il numero da indovinare si chiamasse
-`numero_da_indovinare` basterebbe cambiare questa definizione per cambiare il numero. Le cose dovrebbero errere
+Ora inizia a somigliare a quello che dovrebbe essere, ricordatevi solo che se il numero da indovinare si chiamasse
+`numero_da_indovinare` basterebbe cambiare questa definizione per cambiare il numero. Le cose dovrebbero essere
 pressapoco [così](confrontare.py)
 
 * Prossimo: [Provare e riprovare](ciclo.md)
