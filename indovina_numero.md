@@ -29,7 +29,7 @@ giocatore
 indizio
 7. [Numero a caso](casuale.md): ora il computer deve inventare il numero da indovinare a ogni partita
 8. [BUG](bug.md): se il giocatore non inserisce un numero il programma non funziona bene
-9. Tutto funziona ma non è un po' troppo difficile da capire? Possiamo scriverlo meglio?
+9. [Pulizia](refact.md): Tutto funziona ma non è un po' difficile da capire? Possiamo scriverlo meglio?
 
 
 * Prossimo: [Primi Passi](iniziamo.md) 
