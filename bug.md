@@ -24,7 +24,7 @@ Ma prima di affrontare questo problema facciamo un passo indietro risolviamo un'
 
 ## Verificare se il giocatore ha scritto il numero nell'intervallo proposto
 
-*Se il giocatore **non** mette il numero nell'intervallo che abbiamo deciso rifaciamo la domanda senza aumentare il 
+*Se il giocatore* **non** *mette il numero nell'intervallo che abbiamo deciso rifaciamo la domanda senza aumentare il 
 numero dei tentativi.*
 
 Avete qulche idea?
